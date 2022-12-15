@@ -1,0 +1,24 @@
+{
+  "name": "quote-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosMartinez21/quoteGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosMartinez21/quoteGenerator/issues"
+  },
+  "homepage": "https://github.com/CarlosMartinez21/quoteGenerator#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
